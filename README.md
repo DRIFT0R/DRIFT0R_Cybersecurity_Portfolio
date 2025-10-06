@@ -12,15 +12,14 @@ Thank you for joining me on this adventure! 🎶
 
 ## 🧩 Featured Project
 
-### GRC Case Study — *RainCity Roasters*
-A fictional Seattle-based coffee roastery undergoing a **Governance, Risk, and Compliance (GRC)** security assessment.  
-This project includes:
-- NIST CSF-aligned controls and compliance checklist  
-- Risk register and gap analysis  
-- BIA/DR planning summary  
-- Simple Python automation for compliance reporting  
+### Security Assessment — RainCity Roasters
 
-📂 [View Project Folder](./raincity-grc-case-study)
+A fictional Seattle-based coffee roastery undergoing a cybersecurity assessment and risk analysis.
+This project includes:
+- Risk identification and qualitative scoring
+- Asset inventory and data classification
+- Controls and compliance checklists (PCI DSS, GDPR, SOC 2)
+- Implementation roadmap and recommendations
 
 ---
 
