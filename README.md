@@ -43,7 +43,7 @@ This repository is licensed under the **MIT License**.
 
 ## 🌐 Connect
 
-- 🧠 [TryHackMe](#) *(https://tryhackme.com/p/DRIFT0R)*  
+- 🧠 [TryHackMe](https://tryhackme.com/p/DRIFT0R)  
 - ✉️ Reach out if you’d like to collaborate or chat cybersecurity!
 
 > *“Security is not a product, but a process.” – Bruce Schneier*
