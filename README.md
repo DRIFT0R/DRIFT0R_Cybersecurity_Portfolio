@@ -12,7 +12,8 @@ Thank you for joining me on this adventure! 🎶
 
 ## 🧩 Featured Project
 
-### Security Assessment — RainCity Roasters
+### [Security Assessment — RainCity Roasters](./1%20-%20Security%20Audit/1.1%20-%20DRIFT0R%20-%20Security%20Audit%20-%20RainCity%20Roasters.md)
+
 
 A fictional Seattle-based coffee roastery undergoing a cybersecurity assessment and risk analysis.
 This project includes:
